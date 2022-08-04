@@ -1,0 +1,71 @@
+
+.dıv1{
+    background:rgb(202, 196, 198);
+    color:brown;
+    text-align: center;
+    height:200px;
+
+}
+.dıv2{
+    background:rgb(239, 127, 206);
+    height:600px;
+    text-align: center;
+}
+ul{
+    list-style-position: inside;
+    text-align: center;
+
+}
+.btn{
+    background:rgb(81, 149, 250);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: large;
+}
+.dıv3{
+    background:rgb(202, 196, 198);
+    width:1550px;
+    height:1000px;
+}
+.card{
+    width:80%;
+    
+    float:left;
+    padding:3%;
+    background-color:white;
+    
+    border-radius:10px;
+}
+.content{
+    float:left;
+    width:800px;
+    
+}
+.ımg{
+    
+    width:auto;
+    height:auto;
+
+}
+.body{
+    background:rgb(222, 190, 213);
+    margin:0%
+    
+}
+.body1{
+    background:rgb(239, 127, 206);
+    margin:0%
+}
+h1,h2{
+    text-align: center;
+    color: brown;
+}
+p{
+    text-align: center;
+}
+.ımg1{
+    width:350px;
+    height:300px;
+
+}
+
